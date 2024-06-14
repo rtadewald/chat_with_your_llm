@@ -1,6 +1,6 @@
 # Converse com sua LLM
 
-<img src="./images/video.gif" width="500" height="500"/>
+<img src="./images/video.gif"/>
 <br>
 
 Este é o código fonte do projeto citado no vídeo:
