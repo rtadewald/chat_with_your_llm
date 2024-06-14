@@ -1,9 +1,9 @@
 # Converse com sua LLM
 
 <img src="./images/video.gif"/>
-<br>
 
 Este é o código fonte do projeto citado no vídeo:
+<br>
 https://www.youtube.com/watch?v=84FU5JFGiuE&feature=youtu.be
 
 
